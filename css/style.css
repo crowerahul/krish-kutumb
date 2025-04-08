@@ -1,0 +1,43 @@
+html{
+    font-family: "Hind", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background-color: #FFF085;
+}
+
+#hare-krishna{
+ width: 50%;
+ height: 50%;
+ margin-left: 25%;
+ text-align: center;
+ padding-top: 20px;
+}
+
+#radha-krishna-img{
+    width: 100%;
+    margin: 0;
+}
+
+h1{
+    margin: 0px;
+}
+
+#intro{
+    text-align: center;
+}
+
+#govt-order, #sport{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#govt-logo, #sport-logo{
+    width: 100%;
+    height: 80%;
+    margin: 0;
+}
+
+.logo-title{
+    margin: 0;
+}
